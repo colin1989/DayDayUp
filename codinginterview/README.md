@@ -4,3 +4,4 @@
 
 | README                              | 原题地址 |
 |-------------------------------------|------|
+| [Singleton](singleton/singleton.md) |      |
