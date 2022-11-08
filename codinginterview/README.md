@@ -9,3 +9,4 @@
 | [FindNumberIn2DArray](04_FindNumberIn2DArray/FindNumberIn2DArray.md) | [二维数组中的查找](https://leetcode.cn/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/) |
 |  | [替换空格](https://leetcode.cn/problems/ti-huan-kong-ge-lcof/) |
 | [ReversePrint](06_ReversePrint/ReversePrint.md) | [从尾到头打印链表](https://leetcode.cn/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/) |
+| [BuildTree](07_BuildTree/BuildTree.md) | [重建二叉树](https://leetcode.cn/problems/zhong-jian-er-cha-shu-lcof/) |
