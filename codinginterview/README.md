@@ -8,3 +8,4 @@
 | [FindDuplicate](03_FindDuplicate/FindDuplicate.md) | [数组中重复的数字](https://leetcode.cn/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/) |
 | [FindNumberIn2DArray](04_FindNumberIn2DArray/FindNumberIn2DArray.md) | [二维数组中的查找](https://leetcode.cn/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/) |
 |  | [替换空格](https://leetcode.cn/problems/ti-huan-kong-ge-lcof/) |
+| [ReversePrint](06_ReversePrint/ReversePrint.md) | [从尾到头打印链表](https://leetcode.cn/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/) |
