@@ -15,3 +15,4 @@
 | [MinNumberInRotatedArray](11_MinNumberInRotatedArray/binary_search_algorithm.md) | [旋转数组的最小数字](https://leetcode.cn/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/)|
 | [StringPathInMatrix](12_StringPathInMatrix/StringPathInMatrix.md) | [矩阵中的路径](https://leetcode.cn/problems/ju-zhen-zhong-de-lu-jing-lcof/) |
 | [CuttingRope](14_CuttingRope/CuttingRope.md) | [剪绳子1](https://leetcode.cn/problems/jian-sheng-zi-lcof/) [剪绳子2](https://leetcode.cn/problems/jian-sheng-zi-ii-lcof/) |
+| [HanmmingWeight](15_HammingWeight/HammingWeight.md) | [二进制中1的个数](https://leetcode.cn/problems/er-jin-zhi-zhong-1de-ge-shu-lcof/) |
