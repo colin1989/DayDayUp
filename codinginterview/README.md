@@ -13,3 +13,5 @@
 | [QueueWithTwoStacks](09_QueueWithTwoStacks/QueueWithTwoStacks.md) | [用两个栈实现队列](https://leetcode.cn/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/) |
 | [Fibonacci](10_Fibonacci/Fibonacci.md) | [斐波那契数列](https://leetcode.cn/problems/fei-bo-na-qi-shu-lie-lcof/) |
 | [MinNumberInRotatedArray](11_MinNumberInRotatedArray/binary_search_algorithm.md) | [旋转数组的最小数字](https://leetcode.cn/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/)|
+| [StringPathInMatrix](12_StringPathInMatrix/StringPathInMatrix.md) | [矩阵中的路径](https://leetcode.cn/problems/ju-zhen-zhong-de-lu-jing-lcof/) |
+| [CuttingRope](14_CuttingRope/CuttingRope.md) | [剪绳子1](https://leetcode.cn/problems/jian-sheng-zi-lcof/) [剪绳子2](https://leetcode.cn/problems/jian-sheng-zi-ii-lcof/) |
