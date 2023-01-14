@@ -18,3 +18,4 @@
 | [HanmmingWeight](15_HammingWeight/HammingWeight.md) | [二进制中1的个数](https://leetcode.cn/problems/er-jin-zhi-zhong-1de-ge-shu-lcof/) |
 | [Power](16_Power/Power.md) | [数值的整数次方](https://leetcode.cn/problems/shu-zhi-de-zheng-shu-ci-fang-lcof/) |
 | [RegularExpressionsMatching](19_RegularExpressionsMatching/RegularExpressionsMatching.md) | [正则表达式匹配](https://leetcode.cn/problems/zheng-ze-biao-da-shi-pi-pei-lcof) |
+| [NumericStrings](20_NumericStrings/NumericStrings.md) | [表示数值的字符串](https://leetcode.cn/problems/biao-shi-shu-zhi-de-zi-fu-chuan-lcof/) |
