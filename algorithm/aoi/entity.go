@@ -22,6 +22,10 @@ func (e *Entity) IsWatcher() bool {
 	return false
 }
 
-func (e *Entity) Notify(t *Entity) {
+func (e *Entity) Notify(typ AOIEventType, entity AOIEntity) {
+
+}
+
+func (e *Entity) Refresh(typ EntityType, entities []AOIEntity) {
 
 }
